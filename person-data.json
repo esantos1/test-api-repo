@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "avatar": "https://cdn.pixabay.com/photo/2022/02/28/23/35/man-7040262_960_720.jpg",
+        "nome": "Luiz Raimundo Moura",
+        "idade": 42,
+        "cpf": "923.122.388-70",
+        "rg": "47.321.561-5",
+        "data_nasc": "17/01/1980",
+        "sexo": "Masculino",
+        "contato": {
+            "email": "luiz.raimundo.moura@smbcontabil.com.br",
+            "telefone_fixo": "(66) 2505-5483",
+            "celular": "(66) 99572-3174"
+        },
+        "logradouro": [
+            {
+                "cep": "78735-001",
+                "endereco": "Rodovia MT-270",
+                "numero": 113,
+                "bairro": "Parque Sagrada Família",
+                "cidade": "Rondonópolis",
+                "estado": "MT"
+            },
+            {
+                "cep": "78717-028",
+                "endereco": "Rua Manoel Gomes da Costa",
+                "numero": 919,
+                "bairro": "Loteamento Quitéria Teruel Lopes",
+                "cidade": "Rondonópolis",
+                "estado": "MT"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "avatar": "",
+        "nome": "Rafael Pedro Daniel Silva",
+        "idade": 28,
+        "cpf": "576.227.278-81",
+        "rg": "28.024.413-7",
+        "data_nasc": "09/05/1994",
+        "sexo": "Masculino",
+        "contato": {
+            "email": "rafael.pedro.silva@supercleanlav.com.br",
+            "telefone_fixo": "",
+            "celular": "(11) 98257-0237"
+        },
+        "logradouro": [
+            {
+                "cep": "06703-450",
+                "endereco": "Rua Pelicano",
+                "numero": 565,
+                "bairro": "Jardim Nova Coimbra",
+                "cidade": "Cotia",
+                "estado": "SP"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "avatar": "https://images.pexels.com/photos/8241277/pexels-photo-8241277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "nome": "Laís Luzia Ribeiro",
+        "idade": 26,
+        "cpf": "022.547.578-22",
+        "rg": "46.473.449-6",
+        "data_nasc": "23/02/1996",
+        "sexo": "Feminino",
+        "contato": {
+            "email": "lais_ribeiro@tita.com.br",
+            "telefone_fixo": "",
+            "celular": "(11) 98911-4795"
+        },
+        "logradouro": [
+            {
+                "cep": "09321-290",
+                "endereco": "Avenida Guilherme Polydoro",
+                "numero": 142,
+                "bairro": "Jardim Zaira",
+                "cidade": "Mauá",
+                "estado": "SP"
+            },
+            {
+                "cep": "87014-410",
+                "endereco": "Rua Dezesseis de Abril",
+                "numero": 2,
+                "bairro": "Jardim Alamar",
+                "cidade": "Maringá",
+                "estado": "PR"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "avatar": "https://images.pexels.com/photos/1819481/pexels-photo-1819481.jpeg?cs=srgb&dl=pexels-rafael-barros-1819481.jpg&fm=jpg",
+        "nome": "César Augusto da Rosa",
+        "idade": 20,
+        "cpf": "885.865.868-03",
+        "rg": "35.966.576-7",
+        "data_nasc": "16/01/2002",
+        "sexo": "Masculino",
+        "contato": {
+            "email": "cesar_darosa@redacaofinal.com.br",
+            "telefone_fixo": "",
+            "celular": "(15) 98599-6930"
+        },
+        "logradouro": [
+            {
+                "cep": "18306-400",
+                "endereco": "Rua Sessenta e Nove",
+                "numero": 121,
+                "bairro": "Vila Santa Isabel",
+                "cidade": "Capão Bonito",
+                "estado": "SP"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "avatar": "https://images.pexels.com/photos/2837211/pexels-photo-2837211.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "nome": "Clarice Lúcia Silva",
+		"idade": 18,
+		"cpf": "857.542.848-96",
+		"rg": "42.693.355-2",
+		"data_nasc": "08/02/2004",
+		"sexo": "Feminino",
+        "contato": {
+            "email": "clarice_silva@uniara.com.br",
+"telefone_fixo": "(11) 2585-5465",
+		"celular": "(11) 99802-7595"
+        },
+        "logradouro": [
+            {
+                "cep": "08559-450",
+		"endereco": "Rua Itápolis",
+		"numero": 290,
+		"bairro": "Vila Ibar",
+		"cidade": "Poá",
+		"estado": "SP"
+            }
+        ]
+    }
+]
