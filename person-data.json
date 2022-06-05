@@ -34,7 +34,7 @@
     },
     {
         "id": 2,
-        "avatar": "",
+        "avatar": null,
         "nome": "Rafael Pedro Daniel Silva",
         "idade": 28,
         "cpf": "576.227.278-81",
