@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Lucas Martins",
+        "email": "lucas.martins@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "name": "Mariana Silva",
+        "email": "mariana.silva@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+        "name": "Pedro Oliveira",
+        "email": "pedro.oliveira@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "name": "Ana Costa",
+        "email": "ana.costa@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+        "name": "João Santos",
+        "email": "joao.santos@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+        "name": "Beatriz Souza",
+        "email": "beatriz.souza@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+        "name": "Carlos Lima",
+        "email": "carlos.lima@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+        "name": "Renata Almeida",
+        "email": "renata.almeida@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+        "name": "Gustavo Nunes",
+        "email": "gustavo.nunes@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+        "name": "Fernanda Rocha",
+        "email": "fernanda.rocha@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+    },
+    {
+        "name": "Rafael Pereira",
+        "email": "rafael.pereira@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/11.jpg"
+    },
+    {
+        "name": "Isabela Mendes",
+        "email": "isabela.mendes@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+        "name": "Bruno Ribeiro",
+        "email": "bruno.ribeiro@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/13.jpg"
+    },
+    {
+        "name": "Camila Fernandes",
+        "email": "camila.fernandes@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/14.jpg"
+    },
+    {
+        "name": "Thiago Cardoso",
+        "email": "thiago.cardoso@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/15.jpg"
+    },
+    {
+        "name": "Larissa Oliveira",
+        "email": "larissa.oliveira@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/16.jpg"
+    },
+    {
+        "name": "Felipe Carvalho",
+        "email": "felipe.carvalho@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/17.jpg"
+    },
+    {
+        "name": "Sofia Duarte",
+        "email": "sofia.duarte@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/18.jpg"
+    },
+    {
+        "name": "Diego Freitas",
+        "email": "diego.freitas@example.com",
+        "avatar": "https://randomuser.me/api/portraits/men/19.jpg"
+    },
+    {
+        "name": "Juliana Barros",
+        "email": "juliana.barros@example.com",
+        "avatar": "https://randomuser.me/api/portraits/women/20.jpg"
+    }
+]
